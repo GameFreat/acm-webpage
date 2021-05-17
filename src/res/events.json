@@ -1,0 +1,80 @@
+{
+  "2020":[
+    {
+      "id": 1,
+      "name": "Hour of Code 4.0",
+      "date": "12 Dec"
+    },
+    {
+      "id": 2,
+      "name": "Vizia",
+      "date": "21 Nov"
+    }
+  ],
+  "2019": [
+    {
+      "id": 1,
+      "name": "Hour of Code 3.0",
+      "date": "29 Nov"
+    },
+    {
+      "id": 2,
+      "name": "Introduction to Python",
+      "date": "15-17 Oct"
+    },
+    {
+      "id": 3,
+      "name": "Build your own OS",
+      "date": "26 June"
+    },
+    {
+      "id": 4,
+      "name": "Celestia 2019",
+      "date": "09 May"
+    }
+  ],
+  "2018": [
+    {
+      "id": 1,
+      "name": "Hour of Code 2.0",
+      "date": "01 Dec"
+    },
+    {
+      "id": 2,
+      "name": "Tech Talk on Machine Learning",
+      "date": "11 Sept"
+    },
+    {
+      "id": 3,
+      "name": "Tech Talk on Challenges in Networking",
+      "date": "20 Jan"
+    },
+    {
+      "id": 4,
+      "name": "Google Applied CS with Android Workshop",
+      "date": "08 Sept"
+    },
+    {
+      "id": 5,
+      "name": "Introduction to Python",
+      "date": "04 - 06 Sept"
+    },
+    {
+      "id": 6,
+      "name": "Talk on Computing Revolution:Multiplication to Multicore",
+      "date": "20 July"
+    }
+  ],
+  "2017": [
+    {
+      "id": 1,
+      "name": "Celestia 2017",
+      "date": "30 March"
+    },
+    {
+      "id": 2,
+      "name": "Tech Talk on Deep Learning",
+      "date": "03 Feb"
+    }
+  ]
+}
